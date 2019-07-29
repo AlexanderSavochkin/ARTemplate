@@ -1,3 +1,7 @@
+#Augmented reality application template
+
+![screenshot](https://raw.githubusercontent.com/AlexanderSavochkin/ARTemplate/master/doc/FreeRotation3D.png)
+
 # References:
 1.  [OpenSceneGraph: Creating background image](https://gist.github.com/ViteFalcon/90f9266bf9750e2d0142)
 2.  [OSG-OpenCV-ARDemo](https://github.com/c-goettert/OSG-OpenCV-ARDemo)
