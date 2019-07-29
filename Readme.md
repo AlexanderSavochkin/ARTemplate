@@ -1,6 +1,8 @@
-#Augmented reality application template
+# Augmented reality application template
 
-![screenshot](https://raw.githubusercontent.com/AlexanderSavochkin/ARTemplate/master/doc/FreeRotation3D.png)
+Simple augmented reality application with OpenCV (for ARUCO tags capturing) and OpenSceneGraph (for drawing 3d objects).
+
+![screenshot](https://raw.githubusercontent.com/AlexanderSavochkin/ARTemplate/master/doc/Screenshot01.jpg)
 
 # References:
 1.  [OpenSceneGraph: Creating background image](https://gist.github.com/ViteFalcon/90f9266bf9750e2d0142)
